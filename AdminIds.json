@@ -1,0 +1,19 @@
+{
+  "menu-version": "1.10.3",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/NZPtXJXH",
+  "admins": [
+    {
+      "name": "END",
+      "user-id": "2729A7000E0FBD3"
+    },
+    {
+      "name": "Cj518",
+      "user-id": "3501448902BDA874"
+    }
+  ],
+  "super-admins": [
+    "END",
+    "Cj518"
+  ]
+}
